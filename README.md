@@ -42,7 +42,7 @@ type StringAndNumber = string & number;`
 
 ## How does TypeScript help in improving code quality and project maintainability?
 
-- TypeScript হলো JavaScript-এর উপরে নির্মিত একটি স্ট্যাটিক টাইপড সুপারসেট, যা JavaScript-এর সমস্ত ফিচার তো দেয়ই, তার সঙ্গে টাইপ সেফটির সুবিধাও দেয়। এটি বড় প্রজেক্টে কাজ করার সময় কোডকে আরও মজবুত, পরিষ্কার ও মেইনটেনযোগ্য করে তোলে
+- TypeScript হলো JavaScript-এর উপরে নির্মিত একটি স্ট্যাটিক টাইপড সুপারসেট, যা JavaScript-এর সমস্ত ফিচার তো দেয়ই, তার সঙ্গে টাইপ সেফটির সুবিধাও দেয়। এটি বড় প্রজেক্টে কাজ করার সময় কোডকে আরও  পরিষ্কার ও মেইনটেনযোগ্য করে তোলে
 
 1. Static Typing
 - TypeScript কম্পাইল করার আগেই বলে দেয় আপনার কোডে কোন টাইপের ভুল আছে।
